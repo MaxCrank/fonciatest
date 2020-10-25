@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foncia.Domain.POS", "Foncia.Domain.POS\Foncia.Domain.POS.csproj", "{24F70866-C735-4919-8C89-7B74CD3204E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foncia.Domain.Tests", "Foncia.Domain.Tests\Foncia.Domain.Tests.csproj", "{F7283B5E-5F51-4D93-BF57-02609904766C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F70866-C735-4919-8C89-7B74CD3204E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F70866-C735-4919-8C89-7B74CD3204E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F70866-C735-4919-8C89-7B74CD3204E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F70866-C735-4919-8C89-7B74CD3204E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7283B5E-5F51-4D93-BF57-02609904766C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7283B5E-5F51-4D93-BF57-02609904766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7283B5E-5F51-4D93-BF57-02609904766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7283B5E-5F51-4D93-BF57-02609904766C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F23734-88B8-4CCA-BEFB-8A49E62FBB4D}
+	EndGlobalSection
+EndGlobal
