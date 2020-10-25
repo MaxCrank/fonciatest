@@ -39,6 +39,4 @@ double result = terminal.CalculateTotal();
 Here are the minimal inputs you should use for your test cases. These test cases must be shown to work in your program: 
 * Scan these items in this order: ABCDABA; Verify the total price is $13.25. 
 * Scan these items in this order: CCCCCCC; Verify the total price is $6.00. 
-* Scan these items in this order: ABCD; Verify the total price is $7.25 
-
-Не так - Вы идёте в компанию, где архитектора нет (напр., лид это делает вместо него, или даже тот же синьор), и делаете это вместо него. Соответственно, в больших бюрократичных компаниях
+* Scan these items in this order: ABCD; Verify the total price is $7.25
